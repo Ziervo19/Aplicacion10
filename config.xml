@@ -21,7 +21,7 @@
 23
 24 	<gap:plugin name"org.apache.cordova.device" version"0.2.12" />
 25 	<gap:plugin name"org.apache.cordova.vibration" version"0.3.0" />
-26	 <gap:plugin name"org.apache.cordova.dialogs" version"0.2.6" />
+26  <gap:plugin name"org.apache.cordova.dialogs" version"0.2.6" />
 27 	<gap:plugin name"org.apache.cordova.geolocation" version"0.3.10"/>
 28 	<gap:plugin name "org.apache.cordova.device-motion" version"0.2.10"/>
 29	 <!--Plugin Audio-->
