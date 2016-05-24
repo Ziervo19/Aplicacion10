@@ -1,7 +1,7 @@
 1  <?xml version="l.0" encoding="UTF-8"?>
 2  <widget xmlns = "http://www.w3.org/ns/widgets"
 3 		xmlns:gap = "http://phonegap.com/ns/1.0"
-4		id = "com.phonegap.example10"
+4		id   ="com.phonegap.example10"
 5	 	versionCode = "10"
 6 		version ="1.0.0">
 7
@@ -23,7 +23,7 @@
 25 	<gap:plugin name"org.apache.cordova.vibration" version"0.3.0" />
 26	 <gap:plugin name"org.apache.cordova.dialogs" version"0.2.6" />
 27 	<gap:plugin name"org.apache.cordova.geolocation" version"0.3.10"/>
-28 	<gap:plugin name "org .apache.cordova.device-motion" version"0.2.10"/>
+28 	<gap:plugin name "org.apache.cordova.device-motion" version"0.2.10"/>
 29	 <!--Plugin Audio-->
 30	<gap:plugin name"com.rjfun.cordova.plugin.lowlatencyaudio" version"l.0" />
 31
